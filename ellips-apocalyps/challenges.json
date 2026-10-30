@@ -1,0 +1,7 @@
+[
+  { "id": 1, "title": "Eerste potje", "description": "Speel je eerste potje", "target": 1, "type": "matches", "maxSeconds": 0 },
+  { "id": 2, "title": "Op dreef", "description": "Speel 5 potjes", "target": 5, "type": "matches", "maxSeconds": 0 },
+  { "id": 3, "title": "Doorzetter", "description": "Speel 25 potjes", "target": 25, "type": "matches", "maxSeconds": 0 },
+  { "id": 4, "title": "Snel gedaan", "description": "Win een potje in minder dan 30 seconden", "target": 1, "type": "fast", "maxSeconds": 30 },
+  { "id": 5, "title": "Bliksemsnel", "description": "Win 3 potjes in minder dan 15 seconden", "target": 3, "type": "fast", "maxSeconds": 15 }
+]

@@ -1,9 +1,9 @@
 [
-  { "id": 1, "title": "Eerste potje", "description": "Speel je eerste potje", "target": 1, "type": "matches", "maxSeconds": 0 },
-  { "id": 2, "title": "Op dreef", "description": "Speel 5 potjes", "target": 5, "type": "matches", "maxSeconds": 0 },
-  { "id": 3, "title": "Doorzetter", "description": "Speel 25 potjes", "target": 25, "type": "matches", "maxSeconds": 0 },
-  { "id": 4, "title": "Snel gedaan", "description": "Win een potje binnen 30 seconden", "target": 1, "type": "fast", "maxSeconds": 30 },
-  { "id": 5, "title": "Bliksemsnel", "description": "Win 3 potjes binnen 15 seconden", "target": 3, "type": "fast", "maxSeconds": 15 },
-  { "id": 6, "title": "Blitzkrieg", "description": "Win een potje binnen 5 seconden", "target": 1, "type": "fast", "maxSeconds": 5 },
-  { "id": 7, "title": "Scared Andy Challenge", "description": "Win een potje zonder schade te krijgen", "target": 1, "type": "flawless", "maxSeconds": 0 }
+  { "id": 1, "title": "Eerste potje", "description": "Speel je eerste potje", "target": 1, "type": "matches", "maxSeconds": 0, "reward": 10 },
+  { "id": 2, "title": "Op dreef", "description": "Speel 5 potjes", "target": 5, "type": "matches", "maxSeconds": 0, "reward": 25 },
+  { "id": 3, "title": "Doorzetter", "description": "Speel 25 potjes", "target": 25, "type": "matches", "maxSeconds": 0, "reward": 100 },
+  { "id": 4, "title": "Snel gedaan", "description": "Win een potje binnen 30 seconden", "target": 1, "type": "fast", "maxSeconds": 30, "reward": 25 },
+  { "id": 5, "title": "Bliksemsnel", "description": "Win 3 potjes binnen 15 seconden", "target": 3, "type": "fast", "maxSeconds": 15, "reward": 50 },
+  { "id": 6, "title": "Blitzkrieg", "description": "Win een potje binnen 5 seconden", "target": 1, "type": "fast", "maxSeconds": 5, "reward": 75 },
+  { "id": 7, "title": "Scared Andy Challenge", "description": "Win een potje zonder schade te krijgen", "target": 1, "type": "flawless", "maxSeconds": 0, "reward": 50 }
 ]
